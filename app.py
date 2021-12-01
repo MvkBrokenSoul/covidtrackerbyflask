@@ -36,5 +36,6 @@ def method_name():
         discharge=count2,
         death=count3
     )
+    v = 4
 if __name__ == '__main__':
     app.run(debug=True,port=7000)
